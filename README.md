@@ -1,1 +1,0 @@
-# jeremybney.github.io
