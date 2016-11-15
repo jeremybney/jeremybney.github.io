@@ -436,11 +436,19 @@ img.img-responsive {
 {
     background:#fff;
 }
-.impFeature>.container
-{
+.impFeature>.container{
+
+/*--------- the info below was taken from the Main .blackdiv and so might be wrong or taken away.... original just had padding top:40, padding-bottom0, and width100%; ---*/
+
     padding-top:40px;
     padding-bottom:0px;
     width:100%;
+    padding:15px;
+    margin-bottom:10px;
+    border-top-left-radius: 7px;
+   -webkit-border-top-left-radius: 7px;
+   -moz-border-top-left-radius:7px;
+   -ms-border-top-left-radius:7px;
 }
 
 /*---------------------------------------------------------slider---------------------------------------------------------------*/
