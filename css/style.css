@@ -358,10 +358,9 @@ background:#fff url('../image/loader2.gif') no-repeat center center;
 	margin-bottom: 20px;
 }
 
-/*---- this is new */
-.PAD30
+.padd30
 {
-    padding:15px;
+    padding:0px;
 }
 
 
