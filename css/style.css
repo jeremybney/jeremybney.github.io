@@ -51,7 +51,7 @@ h1 {font-size: 38px;}
 h2 {font-size: 32px;}
 h3 {font-size: 24px;}
 h4 {font-size: 20px;
-    font-weight:200;
+
 }
 h5 {font-size: 18px;}
 h6 {font-size: 16px;}
@@ -357,10 +357,14 @@ background:#fff url('../image/loader2.gif') no-repeat center center;
 	font-size: 60px;
 	margin-bottom: 20px;
 }
-.padd30
+
+/*---- this is new */
+.PAD30
 {
-    padding:30px;
+    padding:5px;
 }
+
+
 .gap
 {
     height:25px;
@@ -370,6 +374,10 @@ background:#fff url('../image/loader2.gif') no-repeat center center;
 .picture{
     height:100px;
     width:100px;
+}
+
+.h4{
+    padding:10px;
 }
 
 
@@ -383,6 +391,7 @@ background:#fff url('../image/loader2.gif') no-repeat center center;
 {
     padding:50px 0px;
 }
+
 
 img.img-responsive {
 		margin-left: auto;
