@@ -11,6 +11,9 @@ $("div.preloader").delay(299).fadeOut("slow");
 }       
 );
 
+
+
+
 (function($) {
   
     var App = {
@@ -42,6 +45,9 @@ $("div.preloader").delay(299).fadeOut("slow");
         jQuery("a[rel^='prettyPhoto']").prettyPhoto();
  
     },
+
+
+
     scrollingTo:function()
     {
          $(".menu").children("li:nth-child(3)").click(function(){

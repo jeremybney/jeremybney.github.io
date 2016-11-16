@@ -194,12 +194,11 @@ pre {
         -ms-box-shadow: 0 0 7px rgba(0,0,0,.05);
         -o-box-shadow: 0 0 7px rgba(0,0,0,.05);
         background:#000;
-        position:fixed;
+        position:absolute;
         top:0px;
         left:0px;
         width:100%;
         z-index:9999;
-        
 }
 /*---------------------------------------------------PRELOADER---------------------------------------------------------------------*/
 .preloader
